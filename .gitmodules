@@ -1,0 +1,4 @@
+[submodule "ct-daemon/odin-http"]
+	path = ct-daemon/odin-http
+	url = https://github.com/laytan/odin-http
+
