@@ -39,6 +39,11 @@ tell you the address it is running the web server at. At some point I'm going to
 make it customizable, but for now it is accepting any IP4 address with the port
 `8000`.
 
+> [!WARNING]
+> The web server assumes you'll be using `mpv`.
+> This should be customizable at some point at a higher level,
+> but for now you'd have to edit the source code to change it.
+
 Open the "CloudStream Tricks" Android app, then save the address you saw there.
 
 There is a load I can tell you here, but to keep it simple, in the hostname
