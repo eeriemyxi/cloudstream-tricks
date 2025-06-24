@@ -9,6 +9,9 @@ other platforms just yet.
 This project maintains an Android APK and a web server that is powered by
 [Odin](https://odin-lang.org/).
 
+# Demo
+https://github.com/user-attachments/assets/d35e74e7-19ee-4788-a5b1-3a7afa3923b5
+
 # Installation Guide
 As of now you'll have to build the APK and the web server yourself.
 
