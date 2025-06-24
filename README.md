@@ -15,6 +15,14 @@ https://github.com/user-attachments/assets/d35e74e7-19ee-4788-a5b1-3a7afa3923b5
 # Installation Guide
 As of now you'll have to build the APK and the web server yourself.
 
+To clone the repository properly, do:
+```
+git clone --recursive --depth 1 https://github.com/eeriemyxi/cloudstream-tricks
+```
+
+> [!NOTE]
+> Omit `--depth 1` if you aim to contribute to the project.
+
 To build the web server, install Odin and head over to `ct-daemon` directory. Then execute:
 ```
 odin build .
